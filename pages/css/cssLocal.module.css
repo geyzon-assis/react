@@ -1,0 +1,24 @@
+#integracao {
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.vermelho {
+  color: red;
+}
+
+.azul {
+  color: blue;
+}
+
+.verde {
+  color: green;
+  background-color: #FFFF;
+}
+
+/* quando criamos um CSS com o nome module(da forma que foi feita), 
+ele passa a ser um css restrito a um modulo*/

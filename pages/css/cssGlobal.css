@@ -1,0 +1,21 @@
+#integracao {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.vermelho {
+    color: red;
+}
+.azul {
+    color: blue;
+}
+.verde {
+    color: green;
+    background-color: #FFFF;
+}
+
+/* quando criamos um CSS, ele deve ser importado dentro da classe _app,tsx e será de utilização
+global */
